@@ -1,89 +1,105 @@
-<!-- Header banner -->
-<h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1f6feb&height=200&section=header&text=Abdul%20Wahid&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Networking%20%7C%20Cyber%20Security%20%7C%20C%2B%2B&descAlignY=58&descSize=20" />
-</h1>
+<div align="center">
 
-<!-- Typing animation -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=170&section=header&text=ABDUL%20WAHID&fontSize=54&fontColor=D4AF37&fontAlignY=45&desc=NETWORKS%20%C2%B7%20SECURITY%20%C2%B7%20SYSTEMS&descSize=15&descAlignY=68&descColor=8b949e" width="100%" />
+
+<a href="https://github.com/abdul-wahid022">
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=300&size=18&duration=3500&pause=1200&color=C9D1D9&center=true&vCenter=true&width=560&height=40&lines=Computer+networking+student;Building+security+tools+in+C%2B%2B;Automating+workflows+with+Bash;Learning+in+public%2C+one+commit+at+a+time" alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/abdul-wahid022"><img src="https://img.shields.io/badge/LINKEDIN-0d1117?style=for-the-badge&logo=linkedin&logoColor=D4AF37&labelColor=0d1117&color=30363d" /></a>
+<a href="https://github.com/abdul-wahid022?tab=repositories"><img src="https://img.shields.io/badge/REPOSITORIES-0d1117?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d1117&color=30363d" /></a>
+
+</div>
+
+<br/>
+
+---
+
+<h3 align="center">◆ &nbsp; FOCUS &nbsp; ◆</h3>
+
+<table align="center">
+  <tr>
+    <td align="center" width="260">
+      <b>🌐 Networking</b><br/>
+      <sub>Protocols, architecture and hands-on lab practice</sub>
+    </td>
+    <td align="center" width="260">
+      <b>🛡️ Security</b><br/>
+      <sub>Secure coding, entropy analysis and password hardening</sub>
+    </td>
+    <td align="center" width="260">
+      <b>⚙️ Automation</b><br/>
+      <sub>Shell scripting and DevOps-style workflows</sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+<h3 align="center">◆ &nbsp; TOOLKIT &nbsp; ◆</h3>
+
 <p align="center">
-  <a href="https://github.com/abdul-wahid022">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Abdul+Wahid;Learning+Computer+Networks+%F0%9F%8C%90;Building+Security+Tools+in+C%2B%2B+%F0%9F%9B%A1%EF%B8%8F;Automating+things+with+Shell+Scripting+%E2%9A%A1" alt="Typing SVG" />
+  <img src="https://skillicons.dev/icons?i=cpp,bash,linux,git,github,css,figma,vscode&theme=dark&perline=8" />
+</p>
+
+<br/>
+
+<h3 align="center">◆ &nbsp; SELECTED WORK &nbsp; ◆</h3>
+
+<p align="center">
+  <a href="https://github.com/abdul-wahid022/Password-Strength-Analysis-Tool-Cyber-Security-">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-wahid022&repo=Password-Strength-Analysis-Tool-Cyber-Security-&theme=dark&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=8b949e&border_color=30363d&hide_border=false" />
+  </a>
+  <a href="https://github.com/abdul-wahid022/Sky-Cast-Weather-Codac-">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-wahid022&repo=Sky-Cast-Weather-Codac-&theme=dark&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=8b949e&border_color=30363d&hide_border=false" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/abdul-wahid022/computer-networks-learning-journal">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-wahid022&repo=computer-networks-learning-journal&theme=dark&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=8b949e&border_color=30363d&hide_border=false" />
+  </a>
+  <a href="https://github.com/abdul-wahid022/shell-scripting-complete-guide">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-wahid022&repo=shell-scripting-complete-guide&theme=dark&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=8b949e&border_color=30363d&hide_border=false" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/abdul-wahid022/computer-networks-lab">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-wahid022&repo=computer-networks-lab&theme=dark&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=8b949e&border_color=30363d&hide_border=false" />
+  </a>
+  <a href="https://github.com/abdul-wahid022/Owl-Watch-Survival-app">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=abdul-wahid022&repo=Owl-Watch-Survival-app&theme=dark&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=8b949e&border_color=30363d&hide_border=false" />
   </a>
 </p>
 
+<br/>
+
+<h3 align="center">◆ &nbsp; ACTIVITY &nbsp; ◆</h3>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdul-wahid022&label=Profile%20Views&color=1f6feb&style=for-the-badge" />
-  <a href="https://www.linkedin.com/in/abdul-wahid022">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdul-wahid022&show_icons=true&theme=dark&bg_color=0d1117&title_color=D4AF37&icon_color=D4AF37&text_color=8b949e&border_color=30363d&hide_title=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-wahid022&layout=compact&theme=dark&bg_color=0d1117&title_color=D4AF37&text_color=8b949e&border_color=30363d" />
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=abdul-wahid022&background=0d1117&border=30363d&ring=D4AF37&fire=D4AF37&currStreakLabel=D4AF37&currStreakNum=C9D1D9&sideLabels=8b949e&sideNums=C9D1D9&dates=6e7681" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdul-wahid022&bg_color=0d1117&color=8b949e&line=D4AF37&point=FFFFFF&area=true&area_color=D4AF37&hide_border=true&title_color=D4AF37" width="95%" />
+</p>
+
+<br/>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
 
-- 🎓 Student exploring **computer networking**, **cyber security** and **DevOps**
-- 🔭 Currently working on: networking study journals and security tools
-- 🌱 Learning: advanced protocols, secure coding, Bash automation
-- 📍 Based in Pakistan 🇵🇰
-- 💬 Ask me about: C++, networking basics, shell scripting
+<sub><i>"Strong systems are built on strong fundamentals."</i></sub>
 
----
+<br/><br/>
 
-## 🛠️ Tech & Tools
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=60&section=footer" width="100%" />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,bash,linux,git,github,css,figma,vscode&theme=dark" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---|---|---|
-| [🌐 computer-networks-learning-journal](https://github.com/abdul-wahid022/computer-networks-learning-journal) | Weekly study guide covering networking fundamentals to advanced protocols | Docs |
-| [🔐 Password-Strength-Analysis-Tool](https://github.com/abdul-wahid022/Password-Strength-Analysis-Tool-Cyber-Security-) | C++ app that analyzes password strength, detects weaknesses and generates secure passwords | C++ |
-| [🦉 Owl-Watch-Survival-app](https://github.com/abdul-wahid022/Owl-Watch-Survival-app) | Survival-first mobile app prototype with SOS alerts and offline emergency mode | Figma |
-| [☁️ Sky-Cast-Weather-Codac](https://github.com/abdul-wahid022/Sky-Cast-Weather-Codac-) | C++ weather forecast system tailored for Pakistani cities | C++ |
-| [⚡ shell-scripting-complete-guide](https://github.com/abdul-wahid022/shell-scripting-complete-guide) | Bash scripting from basics to advanced with DevOps use cases | Shell |
-| [🔬 computer-networks-lab](https://github.com/abdul-wahid022/computer-networks-lab) | Hands-on networking lab for aspiring network engineers | Labs |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=abdul-wahid022&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdul-wahid022&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=abdul-wahid022&theme=tokyonight&hide_border=true&background=0d1117" />
-</p>
-
----
-
-## 🏆 Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abdul-wahid022&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10" />
-</p>
-
----
-
-## 📫 Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdul-wahid022">
-    <img src="https://img.shields.io/badge/LinkedIn-abdul--wahid022-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/abdul-wahid022">
-    <img src="https://img.shields.io/badge/GitHub-abdul--wahid022-181717?style=flat-square&logo=github&logoColor=white" />
-  </a>
-</p>
-
-<p align="center">
-  <i>⭐ If you like my projects, consider giving them a star!</i>
-</p>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f6feb,100:0d1117&height=100&section=footer" width="100%" />
+</div>
