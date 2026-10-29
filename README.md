@@ -1,3 +1,12 @@
+
+<p align="center">
+  <img src="assets-b/tech-stack.svg" alt="Enterprise Security & Systems Architecture Banner" width="100%">
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=abdul-wahid022&color=f0883e&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
+
 <!-- Tactical Amber Layout -->
 <div align="center">
 <br>
