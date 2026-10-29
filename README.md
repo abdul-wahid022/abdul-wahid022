@@ -1,83 +1,83 @@
-
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/main/hero.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/main/hero.svg">
   <img alt="Abdul Wahid - Cybersecurity Hero Banner" src="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/main/hero.svg" width="100%">
 </picture>
 
-<br/>
-
-<!-- ===== GITHUB STATS ===== -->
-
-<div align="center">
-
-<!-- Streak — full width -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=abdul-wahid022&hide_border=false&stroke=FF7A00&background=0B0F17&ring=00D9FF&fire=FF7A00&currStreakLabel=00D9FF&sideLabels=9AA4B2&currStreakNum=F5F7FA&sideNums=F5F7FA&dates=64748B&titleColor=FF7A00&card_width=1180" />
-  <img width="100%" src="https://streak-stats.demolab.com/?user=abdul-wahid022&hide_border=false&stroke=FF7A00&background=0B0F17&ring=00D9FF&fire=FF7A00&currStreakLabel=00D9FF&sideLabels=9AA4B2&currStreakNum=F5F7FA&sideNums=F5F7FA&dates=64748B&titleColor=FF7A00&card_width=1180" alt="Abdul's streak" />
-</picture>
-
 <br/><br/>
 
-<!-- Stats + Top languages — side by side -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=abdul-wahid022&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=false&border_color=FF7A00&title_color=FF7A00&icon_color=00D9FF&text_color=9AA4B2&bg_color=0B0F17&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=abdul-wahid022&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=false&border_color=FF7A00&title_color=FF7A00&icon_color=00D9FF&text_color=9AA4B2&bg_color=0B0F17&card_width=500" alt="Abdul's GitHub stats" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=abdul-wahid022&layout=compact&langs_count=8&hide_border=false&border_color=FF7A00&title_color=FF7A00&text_color=9AA4B2&bg_color=0B0F17&card_width=500" />
-  <img width="49%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=abdul-wahid022&layout=compact&langs_count=8&hide_border=false&border_color=FF7A00&title_color=FF7A00&text_color=9AA4B2&bg_color=0B0F17&card_width=500" alt="Top languages" />
-</picture>
+<!-- ===== STREAK STATS ===== -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=abdul-wahid022&hide_border=false&stroke=30363D&background=0B0F17&ring=00D9FF&fire=FF7A00&currStreakLabel=00D9FF&sideLabels=9AA4B2&currStreakNum=F5F7FA&sideNums=F5F7FA&dates=64748B&titleColor=FF7A00&card_width=1180" />
+    <img width="100%" src="https://streak-stats.demolab.com/?user=abdul-wahid022&hide_border=false&stroke=30363D&background=0B0F17&ring=00D9FF&fire=FF7A00&currStreakLabel=00D9FF&sideLabels=9AA4B2&currStreakNum=F5F7FA&sideNums=F5F7FA&dates=64748B&titleColor=FF7A00&card_width=1180" alt="Abdul's streak" />
+  </picture>
+</div>
 
+<br/>
+
+<!-- ===== SUBTLE MATCHING STATS & LANGUAGES TABLE ===== -->
+<div align="center">
+  <table border="0" cellspacing="0" cellpadding="0" style="border: none; background: transparent; width: 100%;">
+    <tr>
+      <td width="50%" align="center" valign="top" style="border: none; background: transparent; padding-right: 5px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=abdul-wahid022&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=false&border_color=30363D&title_color=FF7A00&icon_color=00D9FF&text_color=9AA4B2&bg_color=0B0F17&card_width=490" />
+          <img width="100%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=abdul-wahid022&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=false&border_color=30363D&title_color=FF7A00&icon_color=00D9FF&text_color=9AA4B2&bg_color=0B0F17&card_width=490" alt="GitHub Stats" />
+        </picture>
+      </td>
+      <td width="50%" align="center" valign="top" style="border: none; background: transparent; padding-left: 5px;">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=abdul-wahid022&layout=compact&langs_count=6&hide_border=false&border_color=30363D&title_color=FF7A00&text_color=9AA4B2&bg_color=0B0F17&card_width=490" />
+          <img width="100%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=abdul-wahid022&layout=compact&langs_count=6&hide_border=false&border_color=30363D&title_color=FF7A00&text_color=9AA4B2&bg_color=0B0F17&card_width=490" alt="Top Languages" />
+        </picture>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
 
 <!-- ===== CONTRIBUTION SNAKE ===== -->
-
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/output/snake-dark.svg" />
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/output/snake-dark.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/output/snake-dark.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/output/snake-dark.svg" />
+  </picture>
 </div>
+
+<br/>
 
 <!-- ===== SOCIAL BADGES ===== -->
-<br/>
 <div align="center">
-
-<a href="https://www.linkedin.com/in/abdul-wahid022/">
-  <img src="https://img.shields.io/badge/LinkedIn-0B0F17?style=for-the-badge&logoColor=FF7A00&labelColor=0B0F17&logo=linkedin" alt="LinkedIn" />
-</a>
-&nbsp;&nbsp;
-<a href="mailto:your-email@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0B0F17?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0B0F17" alt="Email" />
-</a>
-
+  <a href="https://www.linkedin.com/in/abdul-wahid022/">
+    <img src="https://img.shields.io/badge/LinkedIn-0B0F17?style=for-the-badge&logoColor=FF7A00&labelColor=0B0F17&logo=linkedin" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0B0F17?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0B0F17" alt="Email" />
+  </a>
 </div>
 
-<!-- =================================== -->
 
-<div align="center">
 
-<table style="border: none; background: transparent; width: 100%;">
-  <tr>
-    <td width="50%" align="center" style="border: none; background: transparent;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=abdul-wahid022&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=false&border_color=FF7A00&title_color=FF7A00&icon_color=00D9FF&text_color=9AA4B2&bg_color=0B0F17&card_width=490" />
-        <img width="100%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=abdul-wahid022&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=false&border_color=FF7A00&title_color=FF7A00&icon_color=00D9FF&text_color=9AA4B2&bg_color=0B0F17&card_width=490" alt="GitHub Stats" />
-      </picture>
-    </td>
-    <td width="50%" align="center" style="border: none; background: transparent;">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=abdul-wahid022&layout=compact&langs_count=8&hide_border=false&border_color=FF7A00&title_color=FF7A00&text_color=9AA4B2&bg_color=0B0F17&card_width=490" />
-        <img width="100%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=abdul-wahid022&layout=compact&langs_count=8&hide_border=false&border_color=FF7A00&title_color=FF7A00&text_color=9AA4B2&bg_color=0B0F17&card_width=490" alt="Top Languages" />
-      </picture>
-    </td>
-  </tr>
-</table>
 
-</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
