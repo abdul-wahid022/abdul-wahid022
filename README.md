@@ -1,6 +1,95 @@
+
+<!-- ===== SECTION 1: PROFILE HERO BANNER ===== -->
 <div align="center">
-  <img src="./hero.gif" alt="Abdul Wahid - Cybersecurity Hero" width="100%">
+  <img src="./hero.svg" alt="Abdul Wahid - Cybersecurity Hero Banner" width="100%" style="border-radius: 8px; border: 1px solid #F0883E; box-shadow: 0 4px 16px rgba(240, 136, 62, 0.15);">
 </div>
+
+<br>
+
+<!-- ===== SECTION 2: ARCHITECTURE & TECHNICAL INTRODUCTION ===== -->
+<div align="center">
+  <img src="assets-b/tech-stack.svg" alt="Enterprise Security & Systems Architecture Banner" width="100%" style="border-radius: 8px; border: 1px solid rgba(240, 136, 62, 0.25);">
+</div>
+
+<br>
+
+<!-- ===== SECTION 3: LAB PORTFOLIOS // TACTICAL INTELLIGENCE ===== -->
+<div align="center">
+  <h3 style="color: #F0883E; font-family: 'Courier New', Courier, monospace; letter-spacing: 1.5px; margin-bottom: 15px;">
+    LAB PORTFOLIOS // TACTICAL INTELLIGENCE
+  </h3>
+</div>
+
+<!-- LAB 01: SOC & BLUE TEAM DFIR -->
+<div align="center">
+  <a href="https://github.com/abdul-wahid022/soc-blue-team-dfir-lab-portfolio">
+    <img src="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/main/assets/h-labs.svg" alt="SOC & Blue Team DFIR Lab Portfolio" width="100%" style="border-radius: 8px; border: 1px solid rgba(240, 136, 62, 0.3);">
+  </a>
+</div>
+
+<br>
+
+<!-- LAB 02: ENTERPRISE NETWORK SECURITY -->
+<div align="center">
+  <a href="https://github.com/abdul-wahid022/enterprise-network-security-soc-lab">
+    <img src="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/main/assets/h-net.svg" alt="Enterprise Network Security SOC Lab" width="100%" style="border-radius: 8px; border: 1px solid rgba(240, 136, 62, 0.3);">
+  </a>
+</div>
+
+<br>
+
+<!-- LAB 03: CLOUD SECURITY & SIEM AUTOMATION -->
+<div align="center">
+  <a href="https://github.com/abdul-wahid022/cloud-security-siem-automation-lab">
+    <img src="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/main/assets/h-cloud.svg" alt="Cloud Security & SIEM Automation Lab" width="100%" style="border-radius: 8px; border: 1px solid rgba(240, 136, 62, 0.3);">
+  </a>
+</div>
+
+<br>
+
+<!-- LAB 04: OFFENSIVE SECURITY & MALWARE ANALYSIS -->
+<div align="center">
+  <a href="https://github.com/abdul-wahid022/offensive-security-malware-analysis-lab">
+    <img src="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/main/assets/h-malware.svg" alt="Offensive Security & Malware Analysis Lab" width="100%" style="border-radius: 8px; border: 1px solid rgba(240, 136, 62, 0.3);">
+  </a>
+</div>
+
+<br>
+
+<!-- ===== SECTION 4: SYSTEM STATUS FOOTER ===== -->
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="background-color: #0B0F17; border: 1px solid #30363D; border-radius: 8px; margin-top: 10px;">
+  <tr>
+    <td align="center" style="padding: 14px;">
+      <p style="color: #64748B; font-family: 'Courier New', Courier, monospace; font-size: 12px; margin: 0;">
+        <span style="color: #F0883E; font-weight: bold;">[SYSTEM STATUS]</span> ACTIVE MONITORING &nbsp;|&nbsp; 
+        <span style="color: #00D9FF; font-weight: bold;">[REPOSITORIES]</span> 20 PUBLIC SECURITY LABS &nbsp;|&nbsp; 
+        <span style="color: #A78BFA; font-weight: bold;">[CORE DOMAIN]</span> SOC / DFIR / NETWORK DEFENSE
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
