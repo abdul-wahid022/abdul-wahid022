@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="hero.svg" alt="Abdul Wahid - Cybersecurity Hero Banner" width="100%">
+</p>
 
 
 
