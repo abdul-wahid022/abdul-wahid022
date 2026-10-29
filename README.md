@@ -1,13 +1,10 @@
 <!-- ===== HERO BANNER WITH GIF TRANSITION ===== -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/main/hero.gif" alt="Abdul Wahid - Cybersecurity " width="100%" style="border-radius: 10px; border: 1px solid #F0883E;">
-</div><!-- ===== ACADEMIC & CYBER SECURITY HERO BANNER ===== -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/main/hero.svg">
-    <img alt="Abdul Wahid - Cybersecurity Hero" src="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/main/hero.svg" width="100%">
-  </picture>
-</div>
+
+
+
+
 <p align="center">
   <img src="assets-b/tech-stack.svg" alt="Enterprise Security & Systems Architecture Banner" width="100%">
 </p>
