@@ -1,12 +1,3 @@
-<p align="center">
-  <img src="hero.svg" alt="Abdul Wahid - Cybersecurity Hero Banner" width="100%">
-</p>
-
-
-
-
-<!-- ===== THEME-AWARE HERO BANNER ===== -->
-<!-- GitHub automatically shows dark.svg in dark mode and light.svg in light mode -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/main/hero.svg">
@@ -67,7 +58,26 @@
 
 <!-- =================================== -->
 
+<div align="center">
 
+<table style="border: none; background: transparent; width: 100%;">
+  <tr>
+    <td width="50%" align="center" style="border: none; background: transparent;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=abdul-wahid022&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=false&border_color=FF7A00&title_color=FF7A00&icon_color=00D9FF&text_color=9AA4B2&bg_color=0B0F17&card_width=490" />
+        <img width="100%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=abdul-wahid022&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=false&border_color=FF7A00&title_color=FF7A00&icon_color=00D9FF&text_color=9AA4B2&bg_color=0B0F17&card_width=490" alt="GitHub Stats" />
+      </picture>
+    </td>
+    <td width="50%" align="center" style="border: none; background: transparent;">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=abdul-wahid022&layout=compact&langs_count=8&hide_border=false&border_color=FF7A00&title_color=FF7A00&text_color=9AA4B2&bg_color=0B0F17&card_width=490" />
+        <img width="100%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api/top-langs/?username=abdul-wahid022&layout=compact&langs_count=8&hide_border=false&border_color=FF7A00&title_color=FF7A00&text_color=9AA4B2&bg_color=0B0F17&card_width=490" alt="Top Languages" />
+      </picture>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 
 
