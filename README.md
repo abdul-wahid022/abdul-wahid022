@@ -49,16 +49,25 @@
 
 <br/>
 
-<!-- ===== SOCIAL BADGES ===== -->
+<!-- ===== SOCIAL BADGES BOX ===== -->
+<br/>
 <div align="center">
-  <a href="https://www.linkedin.com/in/abdul-wahid022/">
-    <img src="https://img.shields.io/badge/LinkedIn-0B0F17?style=for-the-badge&logoColor=FF7A00&labelColor=0B0F17&logo=linkedin" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0B0F17?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0B0F17" alt="Email" />
-  </a>
+  <table border="0" cellspacing="0" cellpadding="12" style="border: 1.5px solid #F0883E; border-radius: 8px; background: #0B0F17; width: auto;">
+    <tr>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="https://www.linkedin.com/in/abdul-wahid022/">
+          <img src="https://img.shields.io/badge/LinkedIn-%230B0F17.svg?style=for-the-badge&logo=linkedin&logoColor=F0883E&labelColor=0B0F17" alt="LinkedIn" />
+        </a>
+      </td>
+      <td align="center" style="border: none; background: transparent;">
+        <a href="mailto:your-email@gmail.com">
+          <img src="https://img.shields.io/badge/Email-%230B0F17.svg?style=for-the-badge&logo=gmail&logoColor=00D9FF&labelColor=0B0F17" alt="Email" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+<br/>
 
 
 
