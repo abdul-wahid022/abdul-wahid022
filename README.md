@@ -1,4 +1,7 @@
-<!-- ===== ACADEMIC & CYBER SECURITY HERO BANNER ===== -->
+<!-- ===== HERO BANNER WITH GIF TRANSITION ===== -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/main/hero.gif" alt="Abdul Wahid - Cybersecurity " width="100%" style="border-radius: 10px; border: 1px solid #F0883E;">
+</div><!-- ===== ACADEMIC & CYBER SECURITY HERO BANNER ===== -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/main/hero.svg">
