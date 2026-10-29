@@ -24,7 +24,7 @@
       <td width="50%" align="center" valign="top" style="border: none; background: transparent; padding-right: 5px;">
         <picture>
           <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=abdul-wahid022&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=false&border_color=30363D&title_color=FF7A00&icon_color=00D9FF&text_color=9AA4B2&bg_color=0B0F17&card_width=490" />
-          <img width="100%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=abdul-wahid022&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=false&border_color=30363D&title_color=F0883E&icon_color=00D9FF&text_color=9AA4B2&bg_color=0B0F17&card_width=490" alt="GitHub Stats" />
+          <img width="100%" src="https://github-readme-stats-sigma-rosy-28.vercel.app/api?username=abdul-wahid022&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=false&border_color=30363D&title_color=FF7A00&icon_color=00D9FF&text_color=9AA4B2&bg_color=0B0F17&card_width=490" alt="GitHub Stats" />
         </picture>
       </td>
       <td width="50%" align="center" valign="top" style="border: none; background: transparent; padding-left: 5px;">
