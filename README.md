@@ -60,7 +60,7 @@
         </a>
       </td>
       <td align="center" style="border: none; background: transparent;">
-        <a href="mailto:your-email@gmail.com">
+        <a href="mailto:abdulwahid.infosec@gmail.com">
           <img src="https://img.shields.io/badge/Email-%230B0F17.svg?style=for-the-badge&logo=gmail&logoColor=F0883E&labelColor=0B0F17" alt="Email" />
         </a>
       </td>
