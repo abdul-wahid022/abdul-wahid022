@@ -7,6 +7,41 @@
 
 <br/><br/>
 
+
+
+<div align="center">
+
+**Cybersecurity Undergraduate · Security Operations · Network Defense · Digital Forensics**
+
+<sub>BS Cyber Security, Air University Multan · Internships: SOC (Secure Dev Labs), CTI and OSINT (The Arzens)</sub>
+
+</div>
+
+<br/>
+
+I'm Abdul Wahid. I design, test and document hands-on cybersecurity lab environments, exploring both offensive techniques and defensive controls. My repositories showcase the configurations, technical reports and evidence behind this work.
+
+**Areas of focus**
+
+- **Security operations and blue team:** SIEM monitoring with Wazuh, network detection with Suricata, Zeek and RITA, honeypot analysis, and a collaborative Zero Trust security lab
+- **Network security and defense:** Firewall hardening, intrusion detection systems (IDS), ARP/DNS spoofing and MITM scenarios, a TLS VPN built in C (SEED Labs), and routing, switching and IPSec labs
+- **Digital forensics and malware analysis:** Disk and file-system investigations with Autopsy and FTK Imager, plus static and dynamic malware analysis with Ghidra, capa and ANY.RUN
+- **Cyber threat intelligence and OSINT:** IOC collection and enrichment, YARA rule development, MITRE ATT&CK mapping, Maltego and controlled phishing simulations
+- **Systems and programming:** Linux, Bash scripting, C++ and x86 Assembly
+
+All work was conducted in isolated lab environments. My practical work is supported by EC-Council CND, CEH and CHFI coursework, alongside CCNA-level networking studies.
+
+**Explore my work**
+
+[SOC, Blue Team and DFIR](https://github.com/abdul-wahid022/soc-blue-team-dfir-lab-portfolio) · [Zero Trust UTM Lab](https://github.com/abdul-wahid022/zero-trust-utm-security-lab)<br/>
+[Network Security and Exploitation](https://github.com/abdul-wahid022/network-security-and-exploitation-lab-portfolio) · [Malware Analysis and Reverse Engineering](https://github.com/abdul-wahid022/malware-analysis-reverse-engineering-lab-portfolio)
+
+<br/>
+
+
+
+
+
 <!-- ===== STREAK STATS ===== -->
 <div align="center">
   <picture>
