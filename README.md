@@ -5,11 +5,6 @@
   <img alt="Abdul Wahid - Cybersecurity Hero Banner" src="https://raw.githubusercontent.com/abdul-wahid022/abdul-wahid022/main/hero.svg" width="100%">
 </picture>
 
-
-
-
-
-
 <div align="center">
   <img
     src="./assets/intro-animated.svg"
@@ -17,24 +12,7 @@
     width="100%"
   />
 </div>
-
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 <!-- ===== STREAK STATS ===== -->
 <div align="center">
@@ -97,39 +75,6 @@
   </table>
 </div>
 <br/>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 <p align="center">
