@@ -12,14 +12,13 @@
 
 <div align="center">
   <img
-    src="assets/intro-animated.svg"
-    alt="About: I design, test and document hands-on security lab environments covering offensive techniques and defensive controls. Each repository holds the configs, reports and evidence. Focus: SOC and SIEM, network defense, digital forensics and DFIR. Also: malware analysis, threat intelligence and OSINT, Linux, Bash, C++ and x86 assembly. Background: BS Cyber Security at Air University Multan; SOC intern at Secure Dev Labs; CTI and OSINT intern at The Arzens. Scope: isolated lab environments; EC-Council CND, CEH and CHFI coursework; CCNA-level networking."
+    src="./assets/intro-animated.svg"
+    alt="Abdul Wahid - Cybersecurity Profile"
     width="100%"
-  >
+  />
 </div>
 
 <br/>
-
 
 
 
